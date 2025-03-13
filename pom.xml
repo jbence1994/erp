@@ -12,9 +12,10 @@
 
     <groupId>com.github.jbence1994</groupId>
     <artifactId>erp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>erp</name>
     <description>Enterprise resource planning application.</description>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <url/>
     <licenses>
         <license/>
