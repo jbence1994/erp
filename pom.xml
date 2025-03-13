@@ -14,7 +14,7 @@
     <artifactId>erp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>erp</name>
-    <description>erp</description>
+    <description>Enterprise resource planning application.</description>
     <url/>
     <licenses>
         <license/>
